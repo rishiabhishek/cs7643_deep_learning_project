@@ -1,0 +1,1821 @@
+
+{
+    "text": "This paper presents an <e1> algorithm </e1> for <e2> computing optical flow , shape , motion , lighting , and albedo </e2> from an image sequence of a rigidly-moving Lambertian object under distant illumination .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This paper presents an <e2> algorithm </e2> for computing optical flow , shape , motion , lighting , and albedo from an <e1> image sequence </e1> of a rigidly-moving Lambertian object under distant illumination .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This paper presents an algorithm for computing optical flow , shape , motion , lighting , and albedo from an <e2> image sequence </e2> of a <e1> rigidly-moving Lambertian object </e1> under distant illumination .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "This paper presents an algorithm for computing optical flow , shape , motion , lighting , and albedo from an image sequence of a <e2> rigidly-moving Lambertian object </e2> under <e1> distant illumination </e1> .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "The problem is formulated in a manner that subsumes structure from <e1> motion </e1> , <e2> multi-view stereo </e2> , and photo-metric stereo as special cases .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "The problem is formulated in a manner that subsumes structure from motion , <e1> multi-view stereo </e1> , and <e2> photo-metric stereo </e2> as special cases .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "The <e2> algorithm </e2> utilizes both <e1> spatial and temporal intensity variation </e1> as cues : the former constrains flow and the latter constrains surface orientation ; combining both cues enables dense reconstruction of both textured and texture-less surfaces .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The algorithm utilizes both spatial and temporal intensity variation as <e2> cues </e2> : the <e1> former </e1> constrains flow and the latter constrains surface orientation ; combining both cues enables dense reconstruction of both textured and texture-less surfaces .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "The algorithm utilizes both spatial and temporal intensity variation as cues : the <e1> former </e1> constrains <e2> flow </e2> and the latter constrains surface orientation ; combining both cues enables dense reconstruction of both textured and texture-less surfaces .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The algorithm utilizes both spatial and temporal intensity variation as cues : the <e1> former </e1> constrains flow and the <e2> latter </e2> constrains surface orientation ; combining both cues enables dense reconstruction of both textured and texture-less surfaces .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "The algorithm utilizes both spatial and temporal intensity variation as <e2> cues </e2> : the former constrains flow and the <e1> latter </e1> constrains surface orientation ; combining both cues enables dense reconstruction of both textured and texture-less surfaces .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "The algorithm utilizes both spatial and temporal intensity variation as cues : the former constrains flow and the <e1> latter </e1> constrains <e2> surface orientation </e2> ; combining both cues enables dense reconstruction of both textured and texture-less surfaces .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The algorithm utilizes both spatial and temporal intensity variation as cues : the former constrains flow and the latter constrains surface orientation ; combining both <e1> cues </e1> enables <e2> dense reconstruction of both textured and texture-less surfaces </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e2> algorithm </e2> works by iteratively <e1> estimating affine camera parameters , illumination , shape , and albedo </e1> in an alternating fashion .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "An <e1> entity-oriented approach </e1> to <e2> restricted-domain parsing </e2> is proposed .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Like semantic grammar , <e1> this </e1> allows easy exploitation of <e2> limited domain semantics </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In addition , <e1> it </e1> facilitates <e2> fragmentary recognition </e2> and the use of multiple parsing strategies , and so is particularly useful for robust recognition of extra-grammatical input .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In addition , <e1> it </e1> facilitates fragmentary recognition and the use of <e2> multiple parsing strategies </e2> , and so is particularly useful for robust recognition of extra-grammatical input .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In addition , it facilitates fragmentary recognition and the use of <e1> multiple parsing strategies </e1> , and so is particularly useful for robust <e2> recognition of extra-grammatical input </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Representative samples from an entity-oriented language definition are presented , along with a <e1> control structure </e1> for an <e2> entity-oriented parser </e2> , some parsing strategies that use the control structure , and worked examples of parses .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Representative samples from an entity-oriented language definition are presented , along with a control structure for an entity-oriented parser , some <e2> parsing strategies </e2> that use the <e1> control structure </e1> , and worked examples of parses .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "A <e2> parser </e2> incorporating the <e1> control structure </e1> and the parsing strategies is currently under implementation .",
+    "labels": "PART-OF"
+}
+{
+    "text": "This paper summarizes the formalism of Category Cooccurrence Restrictions -LRB- CCRs -RRB- and describes two <e1> parsing algorithms </e1> that interpret <e2> it </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The use of CCRs leads to <e2> syntactic descriptions </e2> formulated entirely with <e1> restrictive statements </e1> .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "The paper shows how conventional <e1> algorithms </e1> for the analysis of context free languages can be adapted to the <e2> CCR formalism </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The paper shows how conventional <e2> algorithms </e2> for the analysis of <e1> context free languages </e1> can be adapted to the CCR formalism .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Special attention is given to the part of the parser that checks the fulfillment of <e1> logical well-formedness conditions </e1> on <e2> trees </e2> .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "We present a <e1> text mining method </e1> for finding <e2> synonymous expressions </e2> based on the distributional hypothesis in a set of coherent corpora .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We present a <e2> text mining method </e2> for finding synonymous expressions based on the <e1> distributional hypothesis </e1> in a set of coherent corpora .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This paper proposes a new methodology to improve the <e1> accuracy </e1> of a <e2> term aggregation system </e2> using each author 's text as a coherent corpus .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "This paper proposes a new <e2> methodology </e2> to improve the accuracy of a <e1> term aggregation system </e1> using each author 's text as a coherent corpus .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Our proposed method improves the <e1> accuracy </e1> of our <e2> term aggregation system </e2> , showing that our approach is successful .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Our proposed <e2> method </e2> improves the accuracy of our <e1> term aggregation system </e1> , showing that our approach is successful .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "In this work , we present a <e1> technique </e1> for <e2> robust estimation </e2> , which by explicitly incorporating the inherent uncertainty of the estimation procedure , results in a more efficient robust estimation algorithm .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In this work , we present a <e1> technique </e1> for robust estimation , which by explicitly incorporating the inherent uncertainty of the estimation procedure , results in a more <e2> efficient robust estimation algorithm </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In this work , we present a <e2> technique </e2> for robust estimation , which by explicitly incorporating the <e1> inherent uncertainty of the estimation procedure </e1> , results in a more efficient robust estimation algorithm .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The combination of these two <e1> strategies </e1> results in a <e2> robust estimation procedure </e2> that provides a significant speed-up over existing RANSAC techniques , while requiring no prior information to guide the sampling process .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The combination of these two strategies results in a <e2> robust estimation procedure </e2> that provides a significant speed-up over existing <e1> RANSAC techniques </e1> , while requiring no prior information to guide the sampling process .",
+    "labels": "COMPARE"
+}
+{
+    "text": "In particular , our <e1> algorithm </e1> requires , on average , 3-10 times fewer samples than standard <e2> RANSAC </e2> , which is in close agreement with theoretical predictions .",
+    "labels": "COMPARE"
+}
+{
+    "text": "The efficiency of the <e2> algorithm </e2> is demonstrated on a selection of <e1> geometric estimation problems </e1> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "An attempt has been made to use an <e1> Augmented Transition Network </e1> as a procedural <e2> dialog model </e2> .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "The development of such a model appears to be important in several respects : as a <e2> device </e2> to represent and to use different <e1> dialog schemata </e1> proposed in empirical conversation analysis ; as a device to represent and to use models of verbal interaction ; as a device combining knowledge about dialog schemata and about verbal interaction with knowledge about task-oriented and goal-directed dialogs .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The development of such a model appears to be important in several respects : as a device to represent and to use different <e1> dialog schemata </e1> proposed in empirical <e2> conversation analysis </e2> ; as a device to represent and to use models of verbal interaction ; as a device combining knowledge about dialog schemata and about verbal interaction with knowledge about task-oriented and goal-directed dialogs .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The development of such a model appears to be important in several respects : as a device to represent and to use different dialog schemata proposed in empirical conversation analysis ; as a <e2> device </e2> to represent and to use <e1> models </e1> of verbal interaction ; as a device combining knowledge about dialog schemata and about verbal interaction with knowledge about task-oriented and goal-directed dialogs .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The development of such a model appears to be important in several respects : as a device to represent and to use different dialog schemata proposed in empirical conversation analysis ; as a device to represent and to use <e1> models </e1> of <e2> verbal interaction </e2> ; as a device combining knowledge about dialog schemata and about verbal interaction with knowledge about task-oriented and goal-directed dialogs .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The development of such a model appears to be important in several respects : as a device to represent and to use different dialog schemata proposed in empirical conversation analysis ; as a device to represent and to use models of verbal interaction ; as a device combining knowledge about <e1> dialog schemata </e1> and about <e2> verbal interaction </e2> with knowledge about task-oriented and goal-directed dialogs .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "A standard <e1> ATN </e1> should be further developed in order to account for the <e2> verbal interactions </e2> of task-oriented dialogs .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "A standard ATN should be further developed in order to account for the <e1> verbal interactions </e1> of <e2> task-oriented dialogs </e2> .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "We present a practically <e1> unsupervised learning method </e1> to produce <e2> single-snippet answers </e2> to definition questions in question answering systems that supplement Web search engines .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We present a practically unsupervised learning method to produce single-snippet answers to definition questions in <e1> question answering systems </e1> that supplement <e2> Web search engines </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e1> method </e1> exploits <e2> on-line encyclopedias and dictionaries </e2> to generate automatically an arbitrarily large number of positive and negative definition examples , which are then used to train an svm to separate the two classes .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The method exploits <e1> on-line encyclopedias and dictionaries </e1> to generate automatically an arbitrarily large number of <e2> positive and negative definition examples </e2> , which are then used to train an svm to separate the two classes .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The method exploits on-line encyclopedias and dictionaries to generate automatically an arbitrarily large number of <e1> positive and negative definition examples </e1> , which are then used to train an <e2> svm </e2> to separate the two classes .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We show experimentally that the proposed method is viable , that <e1> it </e1> outperforms the <e2> alternative </e2> of training the system on questions and news articles from trec , and that it helps the search engine handle definition questions significantly better .",
+    "labels": "COMPARE"
+}
+{
+    "text": "We show experimentally that the proposed method is viable , that it outperforms the alternative of training the <e2> system </e2> on questions and <e1> news articles </e1> from trec , and that it helps the search engine handle definition questions significantly better .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We show experimentally that the proposed method is viable , that it outperforms the alternative of training the system on questions and <e1> news articles </e1> from <e2> trec </e2> , and that it helps the search engine handle definition questions significantly better .",
+    "labels": "PART-OF"
+}
+{
+    "text": "We show experimentally that the proposed method is viable , that it outperforms the alternative of training the system on questions and news articles from trec , and that <e1> it </e1> helps the <e2> search engine </e2> handle definition questions significantly better .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We revisit the <e2> classical decision-theoretic problem of weighted expert voting </e2> from a <e1> statistical learning perspective </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In the case of known expert competence levels , we give <e1> sharp error estimates </e1> for the <e2> optimal rule </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We analyze a <e1> reweighted version of the Kikuchi approximation </e1> for estimating the <e2> log partition function of a product distribution </e2> defined over a region graph .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We analyze a reweighted version of the Kikuchi approximation for estimating the <e1> log partition function of a product distribution </e1> defined over a <e2> region graph </e2> .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "We establish sufficient conditions for the <e1> concavity </e1> of our <e2> reweighted objective function </e2> in terms of weight assignments in the Kikuchi expansion , and show that a reweighted version of the sum product algorithm applied to the Kikuchi region graph will produce global optima of the Kikuchi approximation whenever the algorithm converges .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "We establish sufficient conditions for the concavity of our reweighted objective function in terms of weight assignments in the Kikuchi expansion , and show that a <e1> reweighted version of the sum product algorithm </e1> applied to the <e2> Kikuchi region graph </e2> will produce global optima of the Kikuchi approximation whenever the algorithm converges .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We establish sufficient conditions for the concavity of our reweighted objective function in terms of weight assignments in the Kikuchi expansion , and show that a reweighted version of the sum product algorithm applied to the Kikuchi region graph will produce <e1> global optima </e1> of the <e2> Kikuchi approximation </e2> whenever the algorithm converges .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "Finally , we provide an explicit characterization of the polytope of concavity in terms of the <e1> cycle structure </e1> of the <e2> region graph </e2> .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "We apply a <e1> decision tree based approach </e1> to <e2> pronoun resolution </e2> in spoken dialogue .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We apply a decision tree based approach to <e1> pronoun resolution </e1> in <e2> spoken dialogue </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Our <e1> system </e1> deals with <e2> pronouns </e2> with NP - and non-NP-antecedents .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Our system deals with <e2> pronouns </e2> with <e1> NP - and non-NP-antecedents </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We present a set of <e1> features </e1> designed for <e2> pronoun resolution </e2> in spoken dialogue and determine the most promising features .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We present a set of features designed for <e1> pronoun resolution </e1> in <e2> spoken dialogue </e2> and determine the most promising features .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We evaluate the <e2> system </e2> on twenty <e1> Switchboard dialogues </e1> and show that it compares well to Byron 's -LRB- 2002 -RRB- manually tuned system .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "We evaluate the system on twenty Switchboard dialogues and show that <e1> it </e1> compares well to <e2> Byron 's -LRB- 2002 -RRB- manually tuned system </e2> .",
+    "labels": "COMPARE"
+}
+{
+    "text": "We present a new <e1> approach </e1> for building an efficient and robust <e2> classifier </e2> for the two class problem , that localizes objects that may appear in the image under different orien-tations .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We present a new approach for building an efficient and robust <e1> classifier </e1> for the two <e2> class problem </e2> , that localizes objects that may appear in the image under different orien-tations .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In contrast to other works that address this problem using multiple classifiers , each one specialized for a specific orientation , we propose a simple two-step <e2> approach </e2> with an <e1> estimation stage </e1> and a classification stage .",
+    "labels": "PART-OF"
+}
+{
+    "text": "In contrast to other works that address this problem using multiple classifiers , each one specialized for a specific orientation , we propose a simple two-step approach with an <e1> estimation stage </e1> and a <e2> classification stage </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "In contrast to other works that address this problem using multiple classifiers , each one specialized for a specific orientation , we propose a simple two-step <e2> approach </e2> with an estimation stage and a <e1> classification stage </e1> .",
+    "labels": "PART-OF"
+}
+{
+    "text": "The estimator yields an initial set of potential <e2> object poses </e2> that are then validated by the <e1> classifier </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This methodology allows reducing the <e1> time complexity </e1> of the <e2> algorithm </e2> while classification results remain high .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "The <e2> classifier </e2> we use in both stages is based on a <e1> boosted combination of Random Ferns </e1> over local histograms of oriented gradients -LRB- HOGs -RRB- , which we compute during a pre-processing step .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The classifier we use in both stages is based on a <e2> boosted combination of Random Ferns </e2> over <e1> local histograms of oriented gradients -LRB- HOGs -RRB- </e1> , which we compute during a pre-processing step .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "The classifier we use in both stages is based on a boosted combination of Random Ferns over <e2> local histograms of oriented gradients -LRB- HOGs -RRB- </e2> , which we compute during a <e1> pre-processing step </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Both the use of <e1> supervised learning </e1> and working on the gradient space makes our <e2> approach </e2> robust while being efficient at run-time .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Both the use of supervised learning and working on the <e1> gradient space </e1> makes our <e2> approach </e2> robust while being efficient at run-time .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We show these properties by thorough testing on standard databases and on a new <e2> database </e2> made of <e1> motorbikes under planar rotations </e1> , and with challenging conditions such as cluttered backgrounds , changing illumination conditions and partial occlusions .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "We show these properties by thorough testing on standard databases and on a new <e2> database </e2> made of motorbikes under planar rotations , and with challenging <e1> conditions </e1> such as cluttered backgrounds , changing illumination conditions and partial occlusions .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "We show these properties by thorough testing on standard databases and on a new database made of motorbikes under planar rotations , and with challenging <e2> conditions </e2> such as <e1> cluttered backgrounds </e1> , changing illumination conditions and partial occlusions .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "We show these properties by thorough testing on standard databases and on a new database made of motorbikes under planar rotations , and with challenging conditions such as <e1> cluttered backgrounds </e1> , <e2> changing illumination conditions </e2> and partial occlusions .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We show these properties by thorough testing on standard databases and on a new database made of motorbikes under planar rotations , and with challenging <e2> conditions </e2> such as cluttered backgrounds , <e1> changing illumination conditions </e1> and partial occlusions .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "We show these properties by thorough testing on standard databases and on a new database made of motorbikes under planar rotations , and with challenging conditions such as cluttered backgrounds , <e1> changing illumination conditions </e1> and <e2> partial occlusions </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We show these properties by thorough testing on standard databases and on a new database made of motorbikes under planar rotations , and with challenging <e2> conditions </e2> such as cluttered backgrounds , changing illumination conditions and <e1> partial occlusions </e1> .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "A very simple improved <e1> duration model </e1> has reduced the error rate by about 10 % in both <e2> triphone and semiphone systems </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "A very simple improved duration model has reduced the <e1> error rate </e1> by about 10 % in both <e2> triphone and semiphone systems </e2> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "A new <e2> training strategy </e2> has been tested which , by itself , did not provide useful improvements but suggests that improvements can be obtained by a related <e1> rapid adaptation technique </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Finally , the <e2> recognizer </e2> has been modified to use <e1> bigram back-off language models </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e1> system </e1> was then transferred from the <e2> RM task </e2> to the ATIS CSR task and a limited number of development tests performed .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e1> system </e1> was then transferred from the RM task to the <e2> ATIS CSR task </e2> and a limited number of development tests performed .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The system was then transferred from the <e1> RM task </e1> to the <e2> ATIS CSR task </e2> and a limited number of development tests performed .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "A new <e1> approach </e1> for <e2> Interactive Machine Translation </e2> where the author interacts during the creation or the modification of the document is proposed .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This paper presents a new <e2> interactive disambiguation scheme </e2> based on the <e1> paraphrasing </e1> of a parser 's multiple output .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We describe a novel <e1> approach </e1> to <e2> statistical machine translation </e2> that combines syntactic information in the source language with recent advances in phrasal translation .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We describe a novel <e2> approach </e2> to statistical machine translation that combines <e1> syntactic information </e1> in the source language with recent advances in phrasal translation .",
+    "labels": "PART-OF"
+}
+{
+    "text": "We describe a novel approach to statistical machine translation that combines <e1> syntactic information </e1> in the source language with recent advances in <e2> phrasal translation </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We describe a novel <e2> approach </e2> to statistical machine translation that combines syntactic information in the source language with recent advances in <e1> phrasal translation </e1> .",
+    "labels": "PART-OF"
+}
+{
+    "text": "This <e2> method </e2> requires a <e1> source-language dependency parser </e1> , target language word segmentation and an unsupervised word alignment component .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This method requires a <e1> source-language dependency parser </e1> , <e2> target language word segmentation </e2> and an unsupervised word alignment component .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "This <e2> method </e2> requires a source-language dependency parser , <e1> target language word segmentation </e1> and an unsupervised word alignment component .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This method requires a source-language dependency parser , <e1> target language word segmentation </e1> and an <e2> unsupervised word alignment component </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "This <e2> method </e2> requires a source-language dependency parser , target language word segmentation and an <e1> unsupervised word alignment component </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We describe an efficient decoder and show that using these <e1> tree-based models </e1> in combination with conventional <e2> SMT models </e2> provides a promising approach that incorporates the power of phrasal SMT with the linguistic generality available in a parser .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We describe an efficient decoder and show that using these <e1> tree-based models </e1> in combination with conventional SMT models provides a promising <e2> approach </e2> that incorporates the power of phrasal SMT with the linguistic generality available in a parser .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We describe an efficient decoder and show that using these tree-based models in combination with conventional <e1> SMT models </e1> provides a promising <e2> approach </e2> that incorporates the power of phrasal SMT with the linguistic generality available in a parser .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We describe an efficient decoder and show that using these tree-based models in combination with conventional SMT models provides a promising approach that incorporates the power of <e1> phrasal SMT </e1> with the <e2> linguistic generality </e2> available in a parser .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We describe an efficient decoder and show that using these tree-based models in combination with conventional SMT models provides a promising approach that incorporates the power of <e1> phrasal SMT </e1> with the linguistic generality available in a <e2> parser </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We describe an efficient decoder and show that using these tree-based models in combination with conventional SMT models provides a promising approach that incorporates the power of phrasal SMT with the <e1> linguistic generality </e1> available in a <e2> parser </e2> .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "<e2> Video </e2> provides not only rich <e1> visual cues </e1> such as motion and appearance , but also much less explored long-range temporal interactions among objects .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "Video provides not only rich <e2> visual cues </e2> such as <e1> motion </e1> and appearance , but also much less explored long-range temporal interactions among objects .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "Video provides not only rich visual cues such as <e1> motion </e1> and <e2> appearance </e2> , but also much less explored long-range temporal interactions among objects .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Video provides not only rich <e2> visual cues </e2> such as motion and <e1> appearance </e1> , but also much less explored long-range temporal interactions among objects .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "We aim to capture such interactions and to construct a powerful <e1> intermediate-level video representation </e1> for subsequent <e2> recognition </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "First , we develop an efficient <e2> spatio-temporal video segmentation algorithm </e2> , which naturally incorporates <e1> long-range motion cues </e1> from the past and future frames in the form of clusters of point tracks with coherent motion .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "First , we develop an efficient spatio-temporal video segmentation algorithm , which naturally incorporates <e2> long-range motion cues </e2> from the past and future frames in the form of <e1> clusters of point tracks </e1> with coherent motion .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Second , we devise a new <e2> track clustering cost function </e2> that includes <e1> occlusion reasoning </e1> , in the form of depth ordering constraints , as well as motion similarity along the tracks .",
+    "labels": "PART-OF"
+}
+{
+    "text": "Second , we devise a new track clustering cost function that includes <e2> occlusion reasoning </e2> , in the form of <e1> depth ordering constraints </e1> , as well as motion similarity along the tracks .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "Second , we devise a new <e2> track clustering cost function </e2> that includes occlusion reasoning , in the form of depth ordering constraints , as well as <e1> motion similarity </e1> along the tracks .",
+    "labels": "PART-OF"
+}
+{
+    "text": "We evaluate the proposed <e2> approach </e2> on a challenging set of <e1> video sequences of office scenes </e1> from feature length movies .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "In this paper , we introduce <e1> KAZE features </e1> , a novel <e2> multiscale 2D feature detection and description algorithm </e2> in nonlinear scale spaces .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "In this paper , we introduce KAZE features , a novel <e2> multiscale 2D feature detection and description algorithm </e2> in <e1> nonlinear scale spaces </e1> .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "In contrast , we detect and describe <e2> 2D features </e2> in a <e1> nonlinear scale space </e1> by means of nonlinear diffusion filtering .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "In contrast , we detect and describe <e2> 2D features </e2> in a nonlinear scale space by means of <e1> nonlinear diffusion filtering </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e2> nonlinear scale space </e2> is built using efficient <e1> Additive Operator Splitting -LRB- AOS -RRB- techniques </e1> and variable con-ductance diffusion .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The nonlinear scale space is built using efficient <e1> Additive Operator Splitting -LRB- AOS -RRB- techniques </e1> and <e2> variable con-ductance diffusion </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "The <e2> nonlinear scale space </e2> is built using efficient Additive Operator Splitting -LRB- AOS -RRB- techniques and <e1> variable con-ductance diffusion </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Even though our <e1> features </e1> are somewhat more expensive to compute than <e2> SURF </e2> due to the construction of the nonlinear scale space , but comparable to SIFT , our results reveal a step forward in performance both in detection and description against previous state-of-the-art methods .",
+    "labels": "COMPARE"
+}
+{
+    "text": "Even though our <e1> features </e1> are somewhat more expensive to compute than SURF due to the construction of the nonlinear scale space , but comparable to <e2> SIFT </e2> , our results reveal a step forward in performance both in detection and description against previous state-of-the-art methods .",
+    "labels": "COMPARE"
+}
+{
+    "text": "Even though our features are somewhat more expensive to compute than SURF due to the construction of the nonlinear scale space , but comparable to SIFT , our <e1> results </e1> reveal a step forward in performance both in detection and description against previous <e2> state-of-the-art methods </e2> .",
+    "labels": "COMPARE"
+}
+{
+    "text": "Even though our features are somewhat more expensive to compute than SURF due to the construction of the nonlinear scale space , but comparable to SIFT , our <e2> results </e2> reveal a step forward in performance both in <e1> detection </e1> and description against previous state-of-the-art methods .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Even though our features are somewhat more expensive to compute than SURF due to the construction of the nonlinear scale space , but comparable to SIFT , our results reveal a step forward in performance both in <e1> detection </e1> and <e2> description </e2> against previous state-of-the-art methods .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Even though our features are somewhat more expensive to compute than SURF due to the construction of the nonlinear scale space , but comparable to SIFT , our results reveal a step forward in performance both in <e1> detection </e1> and description against previous <e2> state-of-the-art methods </e2> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Even though our features are somewhat more expensive to compute than SURF due to the construction of the nonlinear scale space , but comparable to SIFT , our <e2> results </e2> reveal a step forward in performance both in detection and <e1> description </e1> against previous state-of-the-art methods .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Even though our features are somewhat more expensive to compute than SURF due to the construction of the nonlinear scale space , but comparable to SIFT , our results reveal a step forward in performance both in detection and <e1> description </e1> against previous <e2> state-of-the-art methods </e2> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "<e1> Creating summaries </e1> on lengthy Semantic Web documents for quick <e2> identification of the corresponding entity </e2> has been of great contemporary interest .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "<e2> Creating summaries </e2> on <e1> lengthy Semantic Web documents </e1> for quick identification of the corresponding entity has been of great contemporary interest .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Specifically , we highlight the importance of <e2> diversified -LRB- faceted -RRB- summaries </e2> by combining three dimensions : <e1> diversity </e1> , uniqueness , and popularity .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "Specifically , we highlight the importance of diversified -LRB- faceted -RRB- summaries by combining three dimensions : <e1> diversity </e1> , <e2> uniqueness </e2> , and popularity .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Specifically , we highlight the importance of <e2> diversified -LRB- faceted -RRB- summaries </e2> by combining three dimensions : diversity , <e1> uniqueness </e1> , and popularity .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "Specifically , we highlight the importance of diversified -LRB- faceted -RRB- summaries by combining three dimensions : diversity , <e1> uniqueness </e1> , and <e2> popularity </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Specifically , we highlight the importance of <e2> diversified -LRB- faceted -RRB- summaries </e2> by combining three dimensions : diversity , uniqueness , and <e1> popularity </e1> .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "Our novel <e2> diversity-aware entity summarization approach </e2> mimics <e1> human conceptual clustering techniques </e1> to group facts , and picks representative facts from each group to form concise -LRB- i.e. , short -RRB- and comprehensive -LRB- i.e. , improved coverage through diversity -RRB- summaries .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We evaluate our <e1> approach </e1> against the state-of-the-art techniques and show that our work improves both the quality and the efficiency of <e2> entity summarization </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We evaluate our <e2> approach </e2> against the <e1> state-of-the-art techniques </e1> and show that our work improves both the quality and the efficiency of entity summarization .",
+    "labels": "COMPARE"
+}
+{
+    "text": "We evaluate our approach against the <e1> state-of-the-art techniques </e1> and show that our work improves both the quality and the efficiency of <e2> entity summarization </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We evaluate our approach against the state-of-the-art techniques and show that our work improves both the <e1> quality </e1> and the efficiency of <e2> entity summarization </e2> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "We evaluate our approach against the state-of-the-art techniques and show that our work improves both the quality and the <e1> efficiency </e1> of <e2> entity summarization </e2> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "We present a <e1> framework </e1> for the <e2> fast computation of lexical affinity models </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e2> framework </e2> is composed of a novel <e1> algorithm </e1> to efficiently compute the co-occurrence distribution between pairs of terms , an independence model , and a parametric affinity model .",
+    "labels": "PART-OF"
+}
+{
+    "text": "The framework is composed of a novel <e1> algorithm </e1> to efficiently compute the <e2> co-occurrence distribution </e2> between pairs of terms , an independence model , and a parametric affinity model .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The framework is composed of a novel <e1> algorithm </e1> to efficiently compute the co-occurrence distribution between pairs of terms , an <e2> independence model </e2> , and a parametric affinity model .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "The <e2> framework </e2> is composed of a novel algorithm to efficiently compute the co-occurrence distribution between pairs of terms , an <e1> independence model </e1> , and a parametric affinity model .",
+    "labels": "PART-OF"
+}
+{
+    "text": "The framework is composed of a novel algorithm to efficiently compute the co-occurrence distribution between pairs of terms , an <e1> independence model </e1> , and a <e2> parametric affinity model </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "The <e2> framework </e2> is composed of a novel algorithm to efficiently compute the co-occurrence distribution between pairs of terms , an independence model , and a <e1> parametric affinity model </e1> .",
+    "labels": "PART-OF"
+}
+{
+    "text": "In comparison with previous models , which either use arbitrary windows to compute similarity between words or use <e1> lexical affinity </e1> to create <e2> sequential models </e2> , in this paper we focus on models intended to capture the co-occurrence patterns of any pair of words or phrases at any distance in the corpus .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In comparison with previous <e2> models </e2> , which either use arbitrary windows to compute similarity between words or use lexical affinity to create sequential models , in this paper we focus on <e1> models </e1> intended to capture the co-occurrence patterns of any pair of words or phrases at any distance in the corpus .",
+    "labels": "COMPARE"
+}
+{
+    "text": "In comparison with previous models , which either use arbitrary windows to compute similarity between words or use lexical affinity to create sequential models , in this paper we focus on <e1> models </e1> intended to capture the <e2> co-occurrence patterns </e2> of any pair of words or phrases at any distance in the corpus .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We apply <e1> it </e1> in combination with a terabyte corpus to answer <e2> natural language tests </e2> , achieving encouraging results .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We apply <e2> it </e2> in combination with a <e1> terabyte corpus </e1> to answer natural language tests , achieving encouraging results .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "This paper introduces a <e1> system </e1> for <e2> categorizing unknown words </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e2> system </e2> is based on a <e1> multi-component architecture </e1> where each component is responsible for identifying one class of unknown words .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The system is based on a <e2> multi-component architecture </e2> where each <e1> component </e1> is responsible for identifying one class of unknown words .",
+    "labels": "PART-OF"
+}
+{
+    "text": "The system is based on a multi-component architecture where each <e1> component </e1> is responsible for identifying one class of <e2> unknown words </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The focus of this paper is the <e1> components </e1> that identify <e2> names </e2> and spelling errors .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The focus of this paper is the <e1> components </e1> that identify names and <e2> spelling errors </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The focus of this paper is the components that identify <e1> names </e1> and <e2> spelling errors </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Each <e2> component </e2> uses a <e1> decision tree architecture </e1> to combine multiple types of evidence about the unknown word .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e2> system </e2> is evaluated using data from <e1> live closed captions </e1> - a genre replete with a wide variety of unknown words .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "At MIT Lincoln Laboratory , we have been developing a <e2> Korean-to-English machine translation system </e2> <e1> CCLINC -LRB- Common Coalition Language System at Lincoln Laboratory -RRB- </e1> .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "The <e2> CCLINC Korean-to-English translation system </e2> consists of two <e1> core modules </e1> , language understanding and generation modules mediated by a language neutral meaning representation called a semantic frame .",
+    "labels": "PART-OF"
+}
+{
+    "text": "The CCLINC Korean-to-English translation system consists of two core modules , <e2> language understanding and generation modules </e2> mediated by a <e1> language neutral meaning representation </e1> called a semantic frame .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The CCLINC Korean-to-English translation system consists of two core modules , language understanding and generation modules mediated by a <e2> language neutral meaning representation </e2> called a <e1> semantic frame </e1> .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "The key features of the system include : -LRB- i -RRB- Robust efficient parsing of <e1> Korean </e1> -LRB- a <e2> verb final language </e2> with overt case markers , relatively free word order , and frequent omissions of arguments -RRB- .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "The key features of the system include : -LRB- i -RRB- Robust efficient parsing of Korean -LRB- a <e2> verb final language </e2> with <e1> overt case markers </e1> , relatively free word order , and frequent omissions of arguments -RRB- .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "-LRB- ii -RRB- High quality <e2> translation </e2> via <e1> word sense disambiguation </e1> and accurate word order generation of the target language .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "-LRB- ii -RRB- High quality translation via <e1> word sense disambiguation </e1> and accurate <e2> word order generation </e2> of the target language .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "-LRB- ii -RRB- High quality <e2> translation </e2> via word sense disambiguation and accurate <e1> word order generation </e1> of the target language .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Having been trained on <e1> Korean newspaper articles </e1> on missiles and chemical biological warfare , the <e2> system </e2> produces the translation output sufficient for content understanding of the original document .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Having been trained on <e2> Korean newspaper articles </e2> on <e1> missiles and chemical biological warfare </e1> , the system produces the translation output sufficient for content understanding of the original document .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "The <e1> JAVELIN system </e1> integrates a flexible , planning-based architecture with a variety of language processing modules to provide an <e2> open-domain question answering capability </e2> on free text .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e2> JAVELIN system </e2> integrates a flexible , <e1> planning-based architecture </e1> with a variety of language processing modules to provide an open-domain question answering capability on free text .",
+    "labels": "PART-OF"
+}
+{
+    "text": "The <e2> JAVELIN system </e2> integrates a flexible , planning-based architecture with a variety of <e1> language processing modules </e1> to provide an open-domain question answering capability on free text .",
+    "labels": "PART-OF"
+}
+{
+    "text": "The JAVELIN system integrates a flexible , <e2> planning-based architecture </e2> with a variety of <e1> language processing modules </e1> to provide an open-domain question answering capability on free text .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We present the first application of the <e1> head-driven statistical parsing model </e1> of Collins -LRB- 1999 -RRB- as a <e2> simultaneous language model </e2> and parser for large-vocabulary speech recognition .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We present the first application of the <e1> head-driven statistical parsing model </e1> of Collins -LRB- 1999 -RRB- as a simultaneous language model and <e2> parser </e2> for large-vocabulary speech recognition .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We present the first application of the head-driven statistical parsing model of Collins -LRB- 1999 -RRB- as a <e1> simultaneous language model </e1> and <e2> parser </e2> for large-vocabulary speech recognition .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We present the first application of the head-driven statistical parsing model of Collins -LRB- 1999 -RRB- as a <e1> simultaneous language model </e1> and parser for <e2> large-vocabulary speech recognition </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We present the first application of the head-driven statistical parsing model of Collins -LRB- 1999 -RRB- as a simultaneous language model and <e1> parser </e1> for <e2> large-vocabulary speech recognition </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e1> model </e1> is adapted to an <e2> online left to right chart-parser </e2> for word lattices , integrating acoustic , n-gram , and parser probabilities .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The model is adapted to an <e1> online left to right chart-parser </e1> for <e2> word lattices </e2> , integrating acoustic , n-gram , and parser probabilities .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The model is adapted to an <e2> online left to right chart-parser </e2> for word lattices , integrating <e1> acoustic , n-gram , and parser probabilities </e1> .",
+    "labels": "PART-OF"
+}
+{
+    "text": "The <e2> parser </e2> uses <e1> structural and lexical dependencies </e1> not considered by n-gram models , conditioning recognition on more linguistically-grounded relationships .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Experiments on the <e1> Wall Street Journal treebank </e1> and <e2> lattice corpora </e2> show word error rates competitive with the standard n-gram language model while extracting additional structural information useful for speech understanding .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Experiments on the <e1> Wall Street Journal treebank </e1> and lattice corpora show word error rates competitive with the standard <e2> n-gram language model </e2> while extracting additional structural information useful for speech understanding .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Experiments on the Wall Street Journal treebank and <e1> lattice corpora </e1> show word error rates competitive with the standard <e2> n-gram language model </e2> while extracting additional structural information useful for speech understanding .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Experiments on the Wall Street Journal treebank and lattice corpora show <e1> word error rates </e1> competitive with the standard <e2> n-gram language model </e2> while extracting additional structural information useful for speech understanding .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Experiments on the Wall Street Journal treebank and lattice corpora show word error rates competitive with the standard n-gram language model while extracting additional <e1> structural information </e1> useful for <e2> speech understanding </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "<e1> Image composition -LRB- or mosaicing -RRB- </e1> has attracted a growing attention in recent years as one of the main elements in <e2> video analysis and representation </e2> .",
+    "labels": "PART-OF"
+}
+{
+    "text": "In this paper we deal with the problem of <e1> global alignment </e1> and <e2> super-resolution </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We also propose to evaluate the quality of the resulting <e2> mosaic </e2> by measuring the <e1> amount of blurring </e1> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "<e2> Global registration </e2> is achieved by combining a <e1> graph-based technique </e1> -- that exploits the topological structure of the sequence induced by the spatial overlap -- with a bundle adjustment which uses only the homographies computed in the previous steps .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Global registration is achieved by combining a <e1> graph-based technique </e1> -- that exploits the <e2> topological structure </e2> of the sequence induced by the spatial overlap -- with a bundle adjustment which uses only the homographies computed in the previous steps .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Global registration is achieved by combining a <e1> graph-based technique </e1> -- that exploits the topological structure of the sequence induced by the spatial overlap -- with a <e2> bundle adjustment </e2> which uses only the homographies computed in the previous steps .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "<e2> Global registration </e2> is achieved by combining a graph-based technique -- that exploits the topological structure of the sequence induced by the spatial overlap -- with a <e1> bundle adjustment </e1> which uses only the homographies computed in the previous steps .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Global registration is achieved by combining a graph-based technique -- that exploits the topological structure of the sequence induced by the spatial overlap -- with a <e2> bundle adjustment </e2> which uses only the <e1> homographies </e1> computed in the previous steps .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Experimental comparison with other <e2> techniques </e2> shows the effectiveness of our <e1> approach </e1> .",
+    "labels": "COMPARE"
+}
+{
+    "text": "The main of this project is <e2> computer-assisted acquisition and morpho-syntactic description of verb-noun collocations </e2> in <e1> Polish </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We present methodology and resources obtained in three main project <e2> phases </e2> which are : <e1> dictionary-based acquisition of collocation lexicon </e1> , feasibility study for corpus-based lexicon enlargement phase , corpus-based lexicon enlargement and collocation description .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "We present methodology and resources obtained in three main project phases which are : <e1> dictionary-based acquisition of collocation lexicon </e1> , <e2> feasibility study </e2> for corpus-based lexicon enlargement phase , corpus-based lexicon enlargement and collocation description .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We present methodology and resources obtained in three main project <e2> phases </e2> which are : dictionary-based acquisition of collocation lexicon , <e1> feasibility study </e1> for corpus-based lexicon enlargement phase , corpus-based lexicon enlargement and collocation description .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "We present methodology and resources obtained in three main project phases which are : dictionary-based acquisition of collocation lexicon , <e1> feasibility study </e1> for <e2> corpus-based lexicon enlargement phase </e2> , corpus-based lexicon enlargement and collocation description .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We present methodology and resources obtained in three main project <e2> phases </e2> which are : dictionary-based acquisition of collocation lexicon , feasibility study for corpus-based lexicon enlargement phase , <e1> corpus-based lexicon enlargement and collocation description </e1> .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "We present methodology and resources obtained in three main project phases which are : dictionary-based acquisition of collocation lexicon , <e2> feasibility study </e2> for corpus-based lexicon enlargement phase , <e1> corpus-based lexicon enlargement and collocation description </e1> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "The presented here <e1> corpus-based approach </e1> permitted us to triple the size the <e2> verb-noun collocation dictionary </e2> for Polish .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The presented here corpus-based approach permitted us to triple the size the <e2> verb-noun collocation dictionary </e2> for <e1> Polish </e1> .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "Along with the increasing requirements , the <e1> hash-tag recommendation task </e1> for <e2> microblogs </e2> has been receiving considerable attention in recent years .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Motivated by the successful use of <e1> convolutional neural networks -LRB- CNNs -RRB- </e1> for many <e2> natural language processing tasks </e2> , in this paper , we adopt CNNs to perform the hashtag recommendation problem .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "To incorporate the <e2> trigger words </e2> whose effectiveness have been experimentally evaluated in several previous works , we propose a novel <e1> architecture </e1> with an attention mechanism .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "To incorporate the trigger words whose effectiveness have been experimentally evaluated in several previous works , we propose a novel <e2> architecture </e2> with an <e1> attention mechanism </e1> .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "The results of experiments on the <e1> data </e1> collected from a real world microblogging service demonstrated that the proposed <e2> model </e2> outperforms state-of-the-art methods .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "The results of experiments on the data collected from a real world microblogging service demonstrated that the proposed <e1> model </e1> outperforms <e2> state-of-the-art methods </e2> .",
+    "labels": "COMPARE"
+}
+{
+    "text": "By incorporating trigger words into the consideration , the relative improvement of the proposed <e1> method </e1> over the <e2> state-of-the-art method </e2> is around 9.4 % in the F1-score .",
+    "labels": "COMPARE"
+}
+{
+    "text": "By incorporating trigger words into the consideration , the relative improvement of the proposed method over the <e2> state-of-the-art method </e2> is around 9.4 % in the <e1> F1-score </e1> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "In this paper , we improve an <e2> unsupervised learning method </e2> using the <e1> Expectation-Maximization -LRB- EM -RRB- algorithm </e1> proposed by Nigam et al. for text classification problems in order to apply it to word sense disambiguation -LRB- WSD -RRB- problems .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In this paper , we improve an unsupervised learning method using the <e1> Expectation-Maximization -LRB- EM -RRB- algorithm </e1> proposed by Nigam et al. for <e2> text classification problems </e2> in order to apply it to word sense disambiguation -LRB- WSD -RRB- problems .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In this paper , we improve an unsupervised learning method using the Expectation-Maximization -LRB- EM -RRB- algorithm proposed by Nigam et al. for text classification problems in order to apply <e1> it </e1> to <e2> word sense disambiguation -LRB- WSD -RRB- problems </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In experiments , we solved 50 noun WSD problems in the <e1> Japanese Dictionary Task </e1> in <e2> SENSEVAL2 </e2> .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "Furthermore , our <e1> methods </e1> were confirmed to be effective also for <e2> verb WSD problems </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "<e1> Dividing sentences in chunks of words </e1> is a useful preprocessing step for <e2> parsing </e2> , information extraction and information retrieval .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "<e1> Dividing sentences in chunks of words </e1> is a useful preprocessing step for parsing , <e2> information extraction </e2> and information retrieval .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "<e1> Dividing sentences in chunks of words </e1> is a useful preprocessing step for parsing , information extraction and <e2> information retrieval </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Dividing sentences in chunks of words is a useful preprocessing step for <e1> parsing </e1> , <e2> information extraction </e2> and information retrieval .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Dividing sentences in chunks of words is a useful preprocessing step for parsing , <e1> information extraction </e1> and <e2> information retrieval </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "-LRB- Ramshaw and Marcus , 1995 -RRB- have introduced a `` convenient '' <e1> data representation </e1> for <e2> chunking </e2> by converting it to a tagging task .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In this paper we will examine seven different <e1> data representations </e1> for the problem of <e2> recognizing noun phrase chunks </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "However , equipped with the most suitable <e1> data representation </e1> , our <e2> memory-based learning chunker </e2> was able to improve the best published chunking results for a standard data set .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "However , equipped with the most suitable data representation , our <e2> memory-based learning chunker </e2> was able to improve the best published chunking results for a standard <e1> data set </e1> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "We focus on <e2> FAQ-like questions and answers </e2> , and build our <e1> system </e1> around a noisy-channel architecture which exploits both a language model for answers and a transformation model for answer/question terms , trained on a corpus of 1 million question/answer pairs collected from the Web .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We focus on FAQ-like questions and answers , and build our <e2> system </e2> around a <e1> noisy-channel architecture </e1> which exploits both a language model for answers and a transformation model for answer/question terms , trained on a corpus of 1 million question/answer pairs collected from the Web .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We focus on FAQ-like questions and answers , and build our system around a <e1> noisy-channel architecture </e1> which exploits both a <e2> language model </e2> for answers and a transformation model for answer/question terms , trained on a corpus of 1 million question/answer pairs collected from the Web .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We focus on FAQ-like questions and answers , and build our system around a <e1> noisy-channel architecture </e1> which exploits both a language model for answers and a <e2> transformation model </e2> for answer/question terms , trained on a corpus of 1 million question/answer pairs collected from the Web .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In this paper we evaluate four objective <e1> measures of speech </e1> with regards to <e2> intelligibility prediction </e2> of synthesized speech in diverse noisy situations .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "In this paper we evaluate four objective measures of speech with regards to <e2> intelligibility prediction </e2> of <e1> synthesized speech </e1> in diverse noisy situations .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In this paper we evaluate four objective measures of speech with regards to intelligibility prediction of <e2> synthesized speech </e2> in <e1> diverse noisy situations </e1> .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "We evaluated three <e1> intel-ligibility measures </e1> , the Dau measure , the glimpse proportion and the Speech Intelligibility Index -LRB- SII -RRB- and a <e2> quality measure </e2> , the Perceptual Evaluation of Speech Quality -LRB- PESQ -RRB- .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We evaluated three <e2> intel-ligibility measures </e2> , the <e1> Dau measure </e1> , the glimpse proportion and the Speech Intelligibility Index -LRB- SII -RRB- and a quality measure , the Perceptual Evaluation of Speech Quality -LRB- PESQ -RRB- .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "We evaluated three intel-ligibility measures , the <e1> Dau measure </e1> , the <e2> glimpse proportion </e2> and the Speech Intelligibility Index -LRB- SII -RRB- and a quality measure , the Perceptual Evaluation of Speech Quality -LRB- PESQ -RRB- .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We evaluated three <e2> intel-ligibility measures </e2> , the Dau measure , the <e1> glimpse proportion </e1> and the Speech Intelligibility Index -LRB- SII -RRB- and a quality measure , the Perceptual Evaluation of Speech Quality -LRB- PESQ -RRB- .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "We evaluated three intel-ligibility measures , the Dau measure , the <e1> glimpse proportion </e1> and the <e2> Speech Intelligibility Index -LRB- SII -RRB- </e2> and a quality measure , the Perceptual Evaluation of Speech Quality -LRB- PESQ -RRB- .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We evaluated three <e2> intel-ligibility measures </e2> , the Dau measure , the glimpse proportion and the <e1> Speech Intelligibility Index -LRB- SII -RRB- </e1> and a quality measure , the Perceptual Evaluation of Speech Quality -LRB- PESQ -RRB- .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "We evaluated three intel-ligibility measures , the Dau measure , the glimpse proportion and the Speech Intelligibility Index -LRB- SII -RRB- and a <e2> quality measure </e2> , the <e1> Perceptual Evaluation of Speech Quality -LRB- PESQ -RRB- </e1> .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "For the <e2> generation of synthesized speech </e2> we used a state of the art <e1> HMM-based speech synthesis system </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e2> noisy conditions </e2> comprised four <e1> additive noises </e1> .",
+    "labels": "PART-OF"
+}
+{
+    "text": "The <e1> measures </e1> were compared with <e2> subjective intelligibility scores </e2> obtained in listening tests .",
+    "labels": "COMPARE"
+}
+{
+    "text": "The results show the <e1> Dau </e1> and the <e2> glimpse measures </e2> to be the best predictors of intelligibility , with correlations of around 0.83 to subjective scores .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "The results show the <e1> Dau </e1> and the glimpse measures to be the best <e2> predictors of intelligibility </e2> , with correlations of around 0.83 to subjective scores .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "The results show the <e1> Dau </e1> and the glimpse measures to be the best predictors of intelligibility , with correlations of around 0.83 to <e2> subjective scores </e2> .",
+    "labels": "COMPARE"
+}
+{
+    "text": "The results show the Dau and the <e1> glimpse measures </e1> to be the best <e2> predictors of intelligibility </e2> , with correlations of around 0.83 to subjective scores .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "The results show the Dau and the <e1> glimpse measures </e1> to be the best predictors of intelligibility , with correlations of around 0.83 to <e2> subjective scores </e2> .",
+    "labels": "COMPARE"
+}
+{
+    "text": "The results show the <e2> Dau </e2> and the glimpse measures to be the best predictors of intelligibility , with <e1> correlations </e1> of around 0.83 to subjective scores .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "The results show the Dau and the <e2> glimpse measures </e2> to be the best predictors of intelligibility , with <e1> correlations </e1> of around 0.83 to subjective scores .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "All <e1> measures </e1> gave less accurate <e2> predictions of intelligibility </e2> for synthetic speech than have previously been found for natural speech ; in particular the SII measure .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "All measures gave less accurate <e2> predictions of intelligibility </e2> for <e1> synthetic speech </e1> than have previously been found for natural speech ; in particular the SII measure .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "All measures gave less accurate predictions of intelligibility for <e1> synthetic speech </e1> than have previously been found for <e2> natural speech </e2> ; in particular the SII measure .",
+    "labels": "COMPARE"
+}
+{
+    "text": "All <e2> measures </e2> gave less accurate predictions of intelligibility for synthetic speech than have previously been found for natural speech ; in particular the <e1> SII measure </e1> .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "In additional experiments , we processed the <e2> synthesized speech </e2> by an <e1> ideal binary mask </e1> before adding noise .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e1> Glimpse measure </e1> gave the most accurate <e2> intelligibility predictions </e2> in this situation .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "A <e1> '' graphics for vision '' approach </e1> is proposed to address the problem of <e2> reconstruction </e2> from a large and imperfect data set : reconstruction on demand by tensor voting , or ROD-TV .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "A '' graphics for vision '' approach is proposed to address the problem of <e2> reconstruction </e2> from a <e1> large and imperfect data set </e1> : reconstruction on demand by tensor voting , or ROD-TV .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "A '' graphics for vision '' approach is proposed to address the problem of reconstruction from a large and imperfect data set : <e2> reconstruction </e2> on demand by <e1> tensor voting </e1> , or ROD-TV .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "A '' graphics for vision '' approach is proposed to address the problem of reconstruction from a large and imperfect data set : reconstruction on demand by <e1> tensor voting </e1> , or <e2> ROD-TV </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "A '' graphics for vision '' approach is proposed to address the problem of reconstruction from a large and imperfect data set : <e2> reconstruction </e2> on demand by tensor voting , or <e1> ROD-TV </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "<e2> ROD-TV </e2> simultaneously delivers good <e1> efficiency </e1> and robust-ness , by adapting to a continuum of primitive connectivity , view dependence , and levels of detail -LRB- LOD -RRB- .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "<e2> ROD-TV </e2> simultaneously delivers good efficiency and <e1> robust-ness </e1> , by adapting to a continuum of primitive connectivity , view dependence , and levels of detail -LRB- LOD -RRB- .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "ROD-TV simultaneously delivers good <e2> efficiency </e2> and <e1> robust-ness </e1> , by adapting to a continuum of primitive connectivity , view dependence , and levels of detail -LRB- LOD -RRB- .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "ROD-TV simultaneously delivers good efficiency and robust-ness , by adapting to a continuum of <e2> primitive connectivity </e2> , <e1> view dependence </e1> , and levels of detail -LRB- LOD -RRB- .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "ROD-TV simultaneously delivers good efficiency and robust-ness , by adapting to a continuum of primitive connectivity , <e2> view dependence </e2> , and <e1> levels of detail -LRB- LOD -RRB- </e1> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "<e1> Locally inferred surface elements </e1> are robust to noise and better capture <e2> local shapes </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "By inferring <e1> per-vertex normals </e1> at sub-voxel precision on the fly , we can achieve <e2> interpolative shading </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "By inferring <e2> per-vertex normals </e2> at <e1> sub-voxel precision </e1> on the fly , we can achieve interpolative shading .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "By relaxing the <e1> mesh connectivity requirement </e1> , we extend ROD-TV and propose a simple but effective <e2> multiscale feature extraction algorithm </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "By relaxing the mesh connectivity requirement , we extend <e1> ROD-TV </e1> and propose a simple but effective <e2> multiscale feature extraction algorithm </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "<e2> ROD-TV </e2> consists of a <e1> hierarchical data structure </e1> that encodes different levels of detail .",
+    "labels": "PART-OF"
+}
+{
+    "text": "The <e2> local reconstruction algorithm </e2> is <e1> tensor voting </e1> .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "<e2> It </e2> is applied on demand to the visible subset of data at a desired level of detail , by <e1> traversing the data hierarchy </e1> and collecting tensorial support in a neighborhood .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "It is applied on demand to the visible subset of data at a desired level of detail , by <e1> traversing the data hierarchy </e1> and <e2> collecting tensorial support </e2> in a neighborhood .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "<e2> It </e2> is applied on demand to the visible subset of data at a desired level of detail , by traversing the data hierarchy and <e1> collecting tensorial support </e1> in a neighborhood .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Both <e1> rhetorical structure </e1> and <e2> punctuation </e2> have been helpful in discourse processing .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Both <e1> rhetorical structure </e1> and punctuation have been helpful in <e2> discourse processing </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Both rhetorical structure and <e1> punctuation </e1> have been helpful in <e2> discourse processing </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Based on a corpus annotation project , this paper reports the discursive usage of 6 <e1> Chinese punctuation marks </e1> in <e2> news commentary texts </e2> : Colon , Dash , Ellipsis , Exclamation Mark , Question Mark , and Semicolon .",
+    "labels": "PART-OF"
+}
+{
+    "text": "Based on a corpus annotation project , this paper reports the discursive usage of 6 <e2> Chinese punctuation marks </e2> in news commentary texts : <e1> Colon </e1> , Dash , Ellipsis , Exclamation Mark , Question Mark , and Semicolon .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "Based on a corpus annotation project , this paper reports the discursive usage of 6 Chinese punctuation marks in news commentary texts : <e1> Colon </e1> , <e2> Dash </e2> , Ellipsis , Exclamation Mark , Question Mark , and Semicolon .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Based on a corpus annotation project , this paper reports the discursive usage of 6 <e2> Chinese punctuation marks </e2> in news commentary texts : Colon , <e1> Dash </e1> , Ellipsis , Exclamation Mark , Question Mark , and Semicolon .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "Based on a corpus annotation project , this paper reports the discursive usage of 6 Chinese punctuation marks in news commentary texts : Colon , <e1> Dash </e1> , <e2> Ellipsis </e2> , Exclamation Mark , Question Mark , and Semicolon .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Based on a corpus annotation project , this paper reports the discursive usage of 6 <e2> Chinese punctuation marks </e2> in news commentary texts : Colon , Dash , <e1> Ellipsis </e1> , Exclamation Mark , Question Mark , and Semicolon .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "Based on a corpus annotation project , this paper reports the discursive usage of 6 Chinese punctuation marks in news commentary texts : Colon , Dash , <e1> Ellipsis </e1> , <e2> Exclamation Mark </e2> , Question Mark , and Semicolon .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Based on a corpus annotation project , this paper reports the discursive usage of 6 <e2> Chinese punctuation marks </e2> in news commentary texts : Colon , Dash , Ellipsis , <e1> Exclamation Mark </e1> , Question Mark , and Semicolon .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "Based on a corpus annotation project , this paper reports the discursive usage of 6 Chinese punctuation marks in news commentary texts : Colon , Dash , Ellipsis , <e1> Exclamation Mark </e1> , <e2> Question Mark </e2> , and Semicolon .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Based on a corpus annotation project , this paper reports the discursive usage of 6 <e2> Chinese punctuation marks </e2> in news commentary texts : Colon , Dash , Ellipsis , Exclamation Mark , <e1> Question Mark </e1> , and Semicolon .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "Based on a corpus annotation project , this paper reports the discursive usage of 6 Chinese punctuation marks in news commentary texts : Colon , Dash , Ellipsis , Exclamation Mark , <e1> Question Mark </e1> , and <e2> Semicolon </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Based on a corpus annotation project , this paper reports the discursive usage of 6 <e2> Chinese punctuation marks </e2> in news commentary texts : Colon , Dash , Ellipsis , Exclamation Mark , Question Mark , and <e1> Semicolon </e1> .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "The <e1> rhetorical patterns </e1> of these <e2> marks </e2> are compared against patterns around cue phrases in general .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "The <e1> rhetorical patterns </e1> of these marks are compared against <e2> patterns around cue phrases </e2> in general .",
+    "labels": "COMPARE"
+}
+{
+    "text": "Results show that these <e1> Chinese punctuation marks </e1> , though fewer in number than <e2> cue phrases </e2> , are easy to identify , have strong correlation with certain relations , and can be used as distinctive indicators of nuclearity in Chinese texts .",
+    "labels": "COMPARE"
+}
+{
+    "text": "Results show that these <e1> Chinese punctuation marks </e1> , though fewer in number than cue phrases , are easy to identify , have strong correlation with certain relations , and can be used as distinctive <e2> indicators of nuclearity </e2> in Chinese texts .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Results show that these Chinese punctuation marks , though fewer in number than cue phrases , are easy to identify , have strong correlation with certain relations , and can be used as distinctive <e2> indicators of nuclearity </e2> in <e1> Chinese texts </e1> .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "The <e2> features </e2> based on <e1> Markov random field -LRB- MRF -RRB- models </e1> are usually sensitive to the rotation of image textures .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This paper develops an <e1> anisotropic circular Gaussian MRF -LRB- ACGMRF -RRB- model </e1> for <e2> modelling rotated image textures </e2> and retrieving rotation-invariant texture features .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This paper develops an <e1> anisotropic circular Gaussian MRF -LRB- ACGMRF -RRB- model </e1> for modelling rotated image textures and <e2> retrieving rotation-invariant texture features </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This paper develops an anisotropic circular Gaussian MRF -LRB- ACGMRF -RRB- model for <e1> modelling rotated image textures </e1> and <e2> retrieving rotation-invariant texture features </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "To overcome the <e1> singularity problem </e1> of the <e2> least squares estimate -LRB- LSE -RRB- method </e2> , an approximate least squares estimate -LRB- ALSE -RRB- method is proposed to estimate the parameters of the ACGMRF model .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "To overcome the singularity problem of the least squares estimate -LRB- LSE -RRB- method , an <e1> approximate least squares estimate -LRB- ALSE -RRB- method </e1> is proposed to estimate the <e2> parameters of the ACGMRF model </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e2> rotation-invariant features </e2> can be obtained from the <e1> parameters of the ACGMRF model </e1> by the one-dimensional -LRB- 1-D -RRB- discrete Fourier transform -LRB- DFT -RRB- .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e2> rotation-invariant features </e2> can be obtained from the parameters of the ACGMRF model by the <e1> one-dimensional -LRB- 1-D -RRB- discrete Fourier transform -LRB- DFT -RRB- </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Significantly improved accuracy can be achieved by applying the <e1> rotation-invariant features </e1> to classify <e2> SAR -LRB- synthetic aperture radar </e2> -RRB- sea ice and Brodatz imagery .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Despite much recent progress on accurate <e2> semantic role labeling </e2> , previous work has largely used <e1> independent classifiers </e1> , possibly combined with separate label sequence models via Viterbi decoding .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Despite much recent progress on accurate semantic role labeling , previous work has largely used <e1> independent classifiers </e1> , possibly combined with separate <e2> label sequence models </e2> via Viterbi decoding .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Despite much recent progress on accurate semantic role labeling , previous work has largely used independent classifiers , possibly combined with separate <e2> label sequence models </e2> via <e1> Viterbi decoding </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We show how to build a joint model of argument frames , incorporating novel <e1> features </e1> that model these interactions into <e2> discriminative log-linear models </e2> .",
+    "labels": "PART-OF"
+}
+{
+    "text": "This <e2> system </e2> achieves an <e1> error reduction </e1> of 22 % on all arguments and 32 % on core arguments over a state-of-the art independent classifier for gold-standard parse trees on PropBank .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "This system achieves an <e1> error reduction </e1> of 22 % on all arguments and 32 % on core arguments over a state-of-the art <e2> independent classifier </e2> for gold-standard parse trees on PropBank .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "This <e2> system </e2> achieves an error reduction of 22 % on all arguments and 32 % on core arguments over a state-of-the art <e1> independent classifier </e1> for gold-standard parse trees on PropBank .",
+    "labels": "COMPARE"
+}
+{
+    "text": "This <e2> system </e2> achieves an error reduction of 22 % on all arguments and 32 % on core arguments over a state-of-the art independent classifier for <e1> gold-standard parse trees </e1> on PropBank .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "This system achieves an error reduction of 22 % on all arguments and 32 % on core arguments over a state-of-the art <e2> independent classifier </e2> for <e1> gold-standard parse trees </e1> on PropBank .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "This system achieves an error reduction of 22 % on all arguments and 32 % on core arguments over a state-of-the art independent classifier for <e1> gold-standard parse trees </e1> on <e2> PropBank </e2> .",
+    "labels": "PART-OF"
+}
+{
+    "text": "In order to deal with <e2> ambiguity </e2> , the <e1> MORphological PArser MORPA </e1> is provided with a probabilistic context-free grammar -LRB- PCFG -RRB- , i.e. it combines a `` conventional '' context-free morphological grammar to filter out ungrammatical segmentations with a probability-based scoring function which determines the likelihood of each successful parse .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In order to deal with ambiguity , the <e2> MORphological PArser MORPA </e2> is provided with a <e1> probabilistic context-free grammar -LRB- PCFG -RRB- </e1> , i.e. it combines a `` conventional '' context-free morphological grammar to filter out ungrammatical segmentations with a probability-based scoring function which determines the likelihood of each successful parse .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In order to deal with ambiguity , the MORphological PArser MORPA is provided with a probabilistic context-free grammar -LRB- PCFG -RRB- , i.e. <e2> it </e2> combines a <e1> `` conventional '' context-free morphological grammar </e1> to filter out ungrammatical segmentations with a probability-based scoring function which determines the likelihood of each successful parse .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In order to deal with ambiguity , the MORphological PArser MORPA is provided with a probabilistic context-free grammar -LRB- PCFG -RRB- , i.e. it combines a <e1> `` conventional '' context-free morphological grammar </e1> to filter out <e2> ungrammatical segmentations </e2> with a probability-based scoring function which determines the likelihood of each successful parse .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In order to deal with ambiguity , the MORphological PArser MORPA is provided with a probabilistic context-free grammar -LRB- PCFG -RRB- , i.e. <e2> it </e2> combines a `` conventional '' context-free morphological grammar to filter out ungrammatical segmentations with a <e1> probability-based scoring function </e1> which determines the likelihood of each successful parse .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In order to deal with ambiguity , the MORphological PArser MORPA is provided with a probabilistic context-free grammar -LRB- PCFG -RRB- , i.e. it combines a <e2> `` conventional '' context-free morphological grammar </e2> to filter out ungrammatical segmentations with a <e1> probability-based scoring function </e1> which determines the likelihood of each successful parse .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "In order to deal with ambiguity , the MORphological PArser MORPA is provided with a probabilistic context-free grammar -LRB- PCFG -RRB- , i.e. it combines a `` conventional '' context-free morphological grammar to filter out ungrammatical segmentations with a <e1> probability-based scoring function </e1> which determines the likelihood of each successful <e2> parse </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Test performance data will show that a <e1> PCFG </e1> yields good results in <e2> morphological parsing </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "<e1> MORPA </e1> is a fully implemented <e2> parser </e2> developed for use in a text-to-speech conversion system .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "<e1> MORPA </e1> is a fully implemented parser developed for use in a <e2> text-to-speech conversion system </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "MORPA is a fully implemented <e1> parser </e1> developed for use in a <e2> text-to-speech conversion system </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This paper describes the framework of a <e2> Korean phonological knowledge base system </e2> using the <e1> unification-based grammar formalism </e1> : Korean Phonology Structure Grammar -LRB- KPSG -RRB- .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This paper describes the framework of a Korean phonological knowledge base system using the <e2> unification-based grammar formalism </e2> : <e1> Korean Phonology Structure Grammar -LRB- KPSG -RRB- </e1> .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "The <e1> approach </e1> of <e2> KPSG </e2> provides an explicit development model for constructing a computational phonological system : speech recognition and synthesis system .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The approach of <e1> KPSG </e1> provides an explicit development model for constructing a computational <e2> phonological system </e2> : speech recognition and synthesis system .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We show that the proposed <e1> approach </e1> is more describable than other <e2> approaches </e2> such as those employing a traditional generative phonological approach .",
+    "labels": "COMPARE"
+}
+{
+    "text": "We show that the proposed approach is more describable than other approaches such as <e2> those </e2> employing a traditional <e1> generative phonological approach </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In this paper , we study the <e1> design of core-selecting payment rules </e1> for such <e2> domains </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We design two <e1> core-selecting rules </e1> that always satisfy <e2> IR </e2> in expectation .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "To study the performance of our <e2> rules </e2> we perform a <e1> computational Bayes-Nash equilibrium analysis </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We show that , in equilibrium , our new <e1> rules </e1> have better incentives , higher efficiency , and a lower rate of ex-post IR violations than standard <e2> core-selecting rules </e2> .",
+    "labels": "COMPARE"
+}
+{
+    "text": "We show that , in equilibrium , our new <e2> rules </e2> have better incentives , higher efficiency , and a lower <e1> rate of ex-post IR violations </e1> than standard core-selecting rules .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "We show that , in equilibrium , our new rules have better incentives , higher efficiency , and a lower <e1> rate of ex-post IR violations </e1> than standard <e2> core-selecting rules </e2> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "In this paper , we will describe a <e1> search tool </e1> for a huge set of <e2> ngrams </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This system can be a very useful <e1> tool </e1> for <e2> linguistic knowledge discovery </e2> and other NLP tasks .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This system can be a very useful <e1> tool </e1> for linguistic knowledge discovery and other <e2> NLP tasks </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This system can be a very useful tool for <e1> linguistic knowledge discovery </e1> and other <e2> NLP tasks </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "This paper explores the role of <e1> user modeling </e1> in such <e2> systems </e2> .",
+    "labels": "PART-OF"
+}
+{
+    "text": "Since acquiring the knowledge for a <e1> user model </e1> is a fundamental problem in <e2> user modeling </e2> , a section is devoted to this topic .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Next , the benefits and costs of implementing a <e1> user modeling component </e1> for a <e2> system </e2> are weighed in light of several aspects of the interaction requirements that may be imposed by the system .",
+    "labels": "PART-OF"
+}
+{
+    "text": "<e1> Information extraction techniques </e1> automatically create <e2> structured databases </e2> from unstructured data sources , such as the Web or newswire documents .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "<e2> Information extraction techniques </e2> automatically create structured databases from <e1> unstructured data sources </e1> , such as the Web or newswire documents .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Information extraction techniques automatically create structured databases from <e2> unstructured data sources </e2> , such as the <e1> Web </e1> or newswire documents .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "Information extraction techniques automatically create structured databases from unstructured data sources , such as the <e1> Web </e1> or <e2> newswire documents </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Information extraction techniques automatically create structured databases from <e2> unstructured data sources </e2> , such as the Web or <e1> newswire documents </e1> .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "Despite the successes of these <e2> systems </e2> , <e1> accuracy </e1> will always be imperfect .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "The <e2> information extraction system </e2> we evaluate is based on a <e1> linear-chain conditional random field -LRB- CRF -RRB- </e1> , a probabilistic model which has performed well on information extraction tasks because of its ability to capture arbitrary , overlapping features of the input in a Markov model .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The information extraction system we evaluate is based on a <e1> linear-chain conditional random field -LRB- CRF -RRB- </e1> , a <e2> probabilistic model </e2> which has performed well on information extraction tasks because of its ability to capture arbitrary , overlapping features of the input in a Markov model .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "The information extraction system we evaluate is based on a linear-chain conditional random field -LRB- CRF -RRB- , a <e1> probabilistic model </e1> which has performed well on <e2> information extraction tasks </e2> because of its ability to capture arbitrary , overlapping features of the input in a Markov model .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The information extraction system we evaluate is based on a linear-chain conditional random field -LRB- CRF -RRB- , a <e1> probabilistic model </e1> which has performed well on information extraction tasks because of its ability to capture <e2> arbitrary , overlapping features </e2> of the input in a Markov model .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The information extraction system we evaluate is based on a linear-chain conditional random field -LRB- CRF -RRB- , a probabilistic model which has performed well on information extraction tasks because of its ability to capture <e1> arbitrary , overlapping features </e1> of the <e2> input </e2> in a Markov model .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "The information extraction system we evaluate is based on a linear-chain conditional random field -LRB- CRF -RRB- , a probabilistic model which has performed well on information extraction tasks because of its ability to capture <e1> arbitrary , overlapping features </e1> of the input in a <e2> Markov model </e2> .",
+    "labels": "PART-OF"
+}
+{
+    "text": "We implement several techniques to estimate the confidence of both <e1> extracted fields </e1> and entire <e2> multi-field records </e2> , obtaining an average precision of 98 % for retrieving correct fields and 87 % for multi-field records .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We implement several <e2> techniques </e2> to estimate the confidence of both extracted fields and entire multi-field records , obtaining an <e1> average precision </e1> of 98 % for retrieving correct fields and 87 % for multi-field records .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "In this paper , we use the <e1> information redundancy in multilingual input </e1> to correct errors in <e2> machine translation </e2> and thus improve the quality of multilingual summaries .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In this paper , we use the <e1> information redundancy in multilingual input </e1> to correct errors in machine translation and thus improve the quality of <e2> multilingual summaries </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We demonstrate how errors in the <e2> machine translations </e2> of the input <e1> Arabic documents </e1> can be corrected by identifying and generating from such redundancy , focusing on noun phrases .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In this paper , we propose a new <e1> approach </e1> to generate <e2> oriented object proposals -LRB- OOPs -RRB- </e2> to reduce the detection error caused by various orientations of the object .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In this paper , we propose a new approach to generate <e2> oriented object proposals -LRB- OOPs -RRB- </e2> to reduce the <e1> detection error </e1> caused by various orientations of the object .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "To this end , we propose to efficiently locate <e2> object regions </e2> according to <e1> pixelwise object probability </e1> , rather than measuring the objectness from a set of sampled windows .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "To this end , we propose to efficiently locate object regions according to <e1> pixelwise object probability </e1> , rather than measuring the <e2> objectness </e2> from a set of sampled windows .",
+    "labels": "COMPARE"
+}
+{
+    "text": "We formulate the <e2> proposal generation problem </e2> as a <e1> generative proba-bilistic model </e1> such that object proposals of different shapes -LRB- i.e. , sizes and orientations -RRB- can be produced by locating the local maximum likelihoods .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We formulate the proposal generation problem as a generative proba-bilistic model such that <e2> object proposals </e2> of different <e1> shapes </e1> -LRB- i.e. , sizes and orientations -RRB- can be produced by locating the local maximum likelihoods .",
+    "labels": "FEATURE-OF"
+}
+{
+    "text": "We formulate the proposal generation problem as a generative proba-bilistic model such that object proposals of different <e2> shapes </e2> -LRB- i.e. , <e1> sizes </e1> and orientations -RRB- can be produced by locating the local maximum likelihoods .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "We formulate the proposal generation problem as a generative proba-bilistic model such that object proposals of different shapes -LRB- i.e. , <e1> sizes </e1> and <e2> orientations </e2> -RRB- can be produced by locating the local maximum likelihoods .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We formulate the proposal generation problem as a generative proba-bilistic model such that object proposals of different <e2> shapes </e2> -LRB- i.e. , sizes and <e1> orientations </e1> -RRB- can be produced by locating the local maximum likelihoods .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "We formulate the proposal generation problem as a generative proba-bilistic model such that <e2> object proposals </e2> of different shapes -LRB- i.e. , sizes and orientations -RRB- can be produced by locating the <e1> local maximum likelihoods </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "First , it helps the <e1> object detector </e1> handle objects of different <e2> orientations </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Third , <e1> it </e1> avoids massive window sampling , and thereby reducing the <e2> number of proposals </e2> while maintaining a high recall .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Third , <e2> it </e2> avoids massive window sampling , and thereby reducing the number of proposals while maintaining a high <e1> recall </e1> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Experiments on the <e1> PASCAL VOC 2007 dataset </e1> show that the proposed <e2> OOP </e2> outperforms the state-of-the-art fast methods .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Experiments on the PASCAL VOC 2007 dataset show that the proposed <e1> OOP </e1> outperforms the <e2> state-of-the-art fast methods </e2> .",
+    "labels": "COMPARE"
+}
+{
+    "text": "Further experiments show that the <e1> rotation invariant property </e1> helps a <e2> class-specific object detector </e2> achieve better performance than the state-of-the-art proposal generation methods in either object rotation scenarios or general scenarios .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Further experiments show that the rotation invariant property helps a <e1> class-specific object detector </e1> achieve better performance than the state-of-the-art <e2> proposal generation methods </e2> in either object rotation scenarios or general scenarios .",
+    "labels": "COMPARE"
+}
+{
+    "text": "Further experiments show that the rotation invariant property helps a <e2> class-specific object detector </e2> achieve better performance than the state-of-the-art proposal generation methods in either <e1> object rotation scenarios </e1> or general scenarios .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Further experiments show that the rotation invariant property helps a class-specific object detector achieve better performance than the state-of-the-art <e2> proposal generation methods </e2> in either <e1> object rotation scenarios </e1> or general scenarios .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Further experiments show that the rotation invariant property helps a class-specific object detector achieve better performance than the state-of-the-art proposal generation methods in either <e1> object rotation scenarios </e1> or <e2> general scenarios </e2> .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Further experiments show that the rotation invariant property helps a <e2> class-specific object detector </e2> achieve better performance than the state-of-the-art proposal generation methods in either object rotation scenarios or <e1> general scenarios </e1> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Further experiments show that the rotation invariant property helps a class-specific object detector achieve better performance than the state-of-the-art <e2> proposal generation methods </e2> in either object rotation scenarios or <e1> general scenarios </e1> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "This paper describes three relatively <e1> domain-independent capabilities </e1> recently added to the <e2> Paramax spoken language understanding system </e2> : non-monotonic reasoning , implicit reference resolution , and database query paraphrase .",
+    "labels": "PART-OF"
+}
+{
+    "text": "This paper describes three relatively <e2> domain-independent capabilities </e2> recently added to the Paramax spoken language understanding system : <e1> non-monotonic reasoning </e1> , implicit reference resolution , and database query paraphrase .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "This paper describes three relatively <e2> domain-independent capabilities </e2> recently added to the Paramax spoken language understanding system : non-monotonic reasoning , <e1> implicit reference resolution </e1> , and database query paraphrase .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "This paper describes three relatively <e2> domain-independent capabilities </e2> recently added to the Paramax spoken language understanding system : non-monotonic reasoning , implicit reference resolution , and <e1> database query paraphrase </e1> .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "Finally , we briefly describe an experiment which we have done in extending the <e2> n-best speech/language integration architecture </e2> to improving <e1> OCR accuracy </e1> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "We investigate the problem of fine-grained sketch-based image retrieval -LRB- SBIR -RRB- , where <e1> free-hand human sketches </e1> are used as queries to perform <e2> instance-level retrieval of images </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This is an extremely challenging task because -LRB- i -RRB- visual comparisons not only need to be fine-grained but also executed cross-domain , -LRB- ii -RRB- free-hand -LRB- finger -RRB- sketches are highly abstract , making fine-grained matching harder , and most importantly -LRB- iii -RRB- <e1> annotated cross-domain sketch-photo datasets </e1> required for training are scarce , challenging many state-of-the-art <e2> machine learning techniques </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We then develop a <e1> deep triplet-ranking model </e1> for <e2> instance-level SBIR </e2> with a novel data augmentation and staged pre-training strategy to alleviate the issue of insufficient fine-grained training data .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We then develop a <e1> deep triplet-ranking model </e1> for instance-level SBIR with a novel data augmentation and staged pre-training strategy to alleviate the issue of <e2> insufficient fine-grained training data </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We then develop a <e2> deep triplet-ranking model </e2> for instance-level SBIR with a novel <e1> data augmentation </e1> and staged pre-training strategy to alleviate the issue of insufficient fine-grained training data .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We then develop a deep triplet-ranking model for instance-level SBIR with a novel <e1> data augmentation </e1> and <e2> staged pre-training strategy </e2> to alleviate the issue of insufficient fine-grained training data .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "We then develop a <e2> deep triplet-ranking model </e2> for instance-level SBIR with a novel data augmentation and <e1> staged pre-training strategy </e1> to alleviate the issue of insufficient fine-grained training data .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Extensive experiments are carried out to contribute a variety of insights into the challenges of <e1> data sufficiency </e1> and <e2> over-fitting avoidance </e2> when training deep networks for fine-grained cross-domain ranking tasks .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Extensive experiments are carried out to contribute a variety of insights into the challenges of data sufficiency and over-fitting avoidance when training <e1> deep networks </e1> for <e2> fine-grained cross-domain ranking tasks </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "In this paper we target at generating <e2> generic action proposals </e2> in <e1> unconstrained videos </e1> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Each action proposal corresponds to a <e2> temporal series of spatial bounding boxes </e2> , i.e. , a <e1> spatio-temporal video tube </e1> , which has a good potential to locate one human action .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "Each action proposal corresponds to a temporal series of spatial bounding boxes , i.e. , a <e1> spatio-temporal video tube </e1> , which has a good potential to locate one <e2> human action </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Assuming each action is performed by a human with meaningful motion , both <e1> appearance and motion cues </e1> are utilized to measure the <e2> ac-tionness </e2> of the video tubes .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Assuming each action is performed by a human with meaningful motion , both appearance and motion cues are utilized to measure the <e1> ac-tionness </e1> of the <e2> video tubes </e2> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "After picking those spatiotem-poral paths of high actionness scores , our <e2> action proposal generation </e2> is formulated as a <e1> maximum set coverage problem </e1> , where greedy search is performed to select a set of action proposals that can maximize the overall actionness score .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "After picking those spatiotem-poral paths of high actionness scores , our action proposal generation is formulated as a maximum set coverage problem , where <e1> greedy search </e1> is performed to select a set of <e2> action proposals </e2> that can maximize the overall actionness score .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "After picking those spatiotem-poral paths of high actionness scores , our action proposal generation is formulated as a maximum set coverage problem , where greedy search is performed to select a set of <e2> action proposals </e2> that can maximize the overall <e1> actionness score </e1> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Compared with existing <e1> action proposal approaches </e1> , our <e2> action proposals </e2> do not rely on video segmentation and can be generated in nearly real-time .",
+    "labels": "COMPARE"
+}
+{
+    "text": "Experimental results on two challenging <e1> datasets </e1> , MSRII and UCF 101 , validate the superior performance of our <e2> action proposals </e2> as well as competitive results on action detection and search .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "Experimental results on two challenging <e2> datasets </e2> , <e1> MSRII </e1> and UCF 101 , validate the superior performance of our action proposals as well as competitive results on action detection and search .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "Experimental results on two challenging datasets , <e1> MSRII </e1> and <e2> UCF 101 </e2> , validate the superior performance of our action proposals as well as competitive results on action detection and search .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Experimental results on two challenging <e2> datasets </e2> , MSRII and <e1> UCF 101 </e1> , validate the superior performance of our action proposals as well as competitive results on action detection and search .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "Experimental results on two challenging datasets , MSRII and UCF 101 , validate the superior performance of our <e2> action proposals </e2> as well as competitive results on <e1> action detection and search </e1> .",
+    "labels": "EVALUATE-FOR"
+}
+{
+    "text": "This paper reports recent research into <e1> methods </e1> for <e2> creating natural language text </e2> .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "<e2> KDS -LRB- Knowledge Delivery System -RRB- </e2> , which embodies this <e1> paradigm </e1> , has distinct parts devoted to creation of the propositional units , to organization of the text , to prevention of excess redundancy , to creation of combinations of units , to evaluation of these combinations as potential sentences , to selection of the best among competing combinations , and to creation of the final text .",
+    "labels": "PART-OF"
+}
+{
+    "text": "The Fragment-and-Compose paradigm and the <e1> computational methods </e1> of <e2> KDS </e2> are described .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This paper explores the issue of using different <e1> co-occurrence similarities </e1> between terms for separating <e2> query terms </e2> that are useful for retrieval from those that are harmful .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This paper explores the issue of using different co-occurrence similarities between terms for separating <e1> query terms </e1> that are useful for <e2> retrieval </e2> from those that are harmful .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "This paper explores the issue of using different co-occurrence similarities between terms for separating <e2> query terms </e2> that are useful for retrieval from <e1> those </e1> that are harmful .",
+    "labels": "COMPARE"
+}
+{
+    "text": "The hypothesis under examination is that <e1> useful terms </e1> tend to be more similar to each other than to other <e2> query terms </e2> .",
+    "labels": "COMPARE"
+}
+{
+    "text": "Preliminary experiments with <e2> similarities </e2> computed using <e1> first-order and second-order co-occurrence </e1> seem to confirm the hypothesis .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We propose a new <e1> phrase-based translation model </e1> and <e2> decoding algorithm </e2> that enables us to evaluate and compare several , previously proposed phrase-based translation models .",
+    "labels": "CONJUNCTION"
+}
+{
+    "text": "Within our framework , we carry out a large number of experiments to understand better and explain why <e1> phrase-based models </e1> outperform <e2> word-based models </e2> .",
+    "labels": "COMPARE"
+}
+{
+    "text": "Our empirical results , which hold for all examined language pairs , suggest that the highest levels of performance can be obtained through relatively simple <e2> means </e2> : <e1> heuristic learning of phrase translations </e1> from word-based alignments and lexical weighting of phrase translations .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "Our empirical results , which hold for all examined language pairs , suggest that the highest levels of performance can be obtained through relatively simple means : <e2> heuristic learning of phrase translations </e2> from <e1> word-based alignments </e1> and lexical weighting of phrase translations .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Our empirical results , which hold for all examined language pairs , suggest that the highest levels of performance can be obtained through relatively simple <e2> means </e2> : heuristic learning of phrase translations from word-based alignments and <e1> lexical weighting of phrase translations </e1> .",
+    "labels": "HYPONYM-OF"
+}
+{
+    "text": "Traditional <e1> methods </e1> for <e2> color constancy </e2> can improve surface re-flectance estimates from such uncalibrated images , but their output depends significantly on the background scene .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Traditional <e1> methods </e1> for color constancy can improve <e2> surface re-flectance estimates </e2> from such uncalibrated images , but their output depends significantly on the background scene .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Traditional methods for color constancy can improve <e2> surface re-flectance estimates </e2> from such <e1> uncalibrated images </e1> , but their output depends significantly on the background scene .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "We introduce the multi-view color constancy problem , and present a <e1> method </e1> to recover <e2> estimates of underlying surface re-flectance </e2> based on joint estimation of these surface properties and the illuminants present in multiple images .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The <e1> method </e1> can exploit <e2> image correspondences </e2> obtained by various alignment techniques , and we show examples based on matching local region features .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "The method can exploit <e2> image correspondences </e2> obtained by various <e1> alignment techniques </e1> , and we show examples based on matching local region features .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Our results show that <e1> multi-view constraints </e1> can significantly improve <e2> estimates of both scene illuminants and object color -LRB- surface reflectance -RRB- </e2> when compared to a baseline single-view method .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Our results show that <e2> multi-view constraints </e2> can significantly improve estimates of both scene illuminants and object color -LRB- surface reflectance -RRB- when compared to a <e1> baseline single-view method </e1> .",
+    "labels": "COMPARE"
+}
+{
+    "text": "Our contributions include a <e1> concise , modular architecture </e1> with reversible processes of <e2> understanding </e2> and generation , an information-state model of reference , and flexible links between semantics and collaborative problem solving .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Our contributions include a <e1> concise , modular architecture </e1> with reversible processes of understanding and <e2> generation </e2> , an information-state model of reference , and flexible links between semantics and collaborative problem solving .",
+    "labels": "USED-FOR"
+}
+{
+    "text": "Our contributions include a concise , modular architecture with reversible processes of <e1> understanding </e1> and <e2> generation </e2> , an information-state model of reference , and flexible links between semantics and collaborative problem solving .",
+    "labels": "CONJUNCTION"
+}
